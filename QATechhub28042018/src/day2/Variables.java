@@ -7,6 +7,7 @@ public class Variables {
 		int firstNumber;
 		
 		firstNumber = 10;
+		System.out.println("---------");
 		
 		System.out.println("First Number :: " + firstNumber);
 		
