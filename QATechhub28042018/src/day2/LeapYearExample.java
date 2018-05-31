@@ -11,6 +11,7 @@ public class LeapYearExample {
 		
 		int year;
 		
+		System.out.println("--------------------- ");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the year :: ");
 		year = sc.nextInt();
